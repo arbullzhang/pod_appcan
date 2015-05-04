@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget appId="11328307" channelCode="000" height="480" pid="" sreensize="4.5" version="1.1.1" viewmode="application" widgetId="" width="320">
+    <name>windows</name>
+    <description/>
+    <author email=""></author>
+    <icon src="icon.png"/>
+    <license href=""/>
+    <content encoding="utf-8" src="pluginDemo.html"/>
+    <updateurl>http://fs.appcan.cn/uploads/2014/06/12//11317232_android_1.1.1_000_35608_0.apk</updateurl>
+    <logserverip>192.168.1.152</logserverip>
+    <showmyspace>false</showmyspace>
+    <obfuscation>false</obfuscation>
+    <bgcolor>#fefefe</bgcolor>
+    <orientation>15</orientation>
+</widget>
